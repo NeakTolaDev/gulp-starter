@@ -156,3 +156,6 @@ For the correct display of text on the page was connected plugin typographer, wh
 
 The main index.html lists a brief excerpt and descriptions of each meta tag
 
+## ⭐ Thank you
+
+Thank you for using this build. If you find it helpful, please give it a **star** on GitHub and follow the repository for updates. Your support is greatly appreciated!
